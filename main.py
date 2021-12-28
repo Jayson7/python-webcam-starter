@@ -12,3 +12,4 @@ while True:
     if c == 27:
         break 
 capt.release()
+cv2.destroyAllWindows()
